@@ -410,6 +410,8 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kuntao/proprietary/vendor/lib/sensors.alsps.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.alsps.so \
     vendor/lenovo/kuntao/proprietary/vendor/lib/sensors.st.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.st.so \
     vendor/lenovo/kuntao/proprietary/vendor/lib/soundfx/libdirac.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdirac.so \
+    vendor/lenovo/kuntao/proprietary/lib/soundfx/libasphere.so:system/lib/soundfx/libasphere.so \
+    vendor/lenovo/kuntao/proprietary/lib64/soundfx/libasphere.so:system/lib64/soundfx/libasphere.so
     vendor/lenovo/kuntao/proprietary/vendor/lib/soundfx/libqcbassboost.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcbassboost.so \
     vendor/lenovo/kuntao/proprietary/vendor/lib/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcreverb.so \
     vendor/lenovo/kuntao/proprietary/vendor/lib/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcvirt.so \
